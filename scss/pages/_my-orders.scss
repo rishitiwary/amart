@@ -1,0 +1,70 @@
+//my-account
+.my-account-page{ display: flex; justify-content: space-between; margin:50px 0;
+    .left-sidebar{ width: 25%;
+        ul{ border: 1px solid #E2E2E2;
+            li{ border-bottom:1px solid #E2E2E2;
+                a{ padding:20px; display: block; color:#292929;
+                    &:hover{ background:#008000; color: #fff; text-decoration:none}
+                }
+
+                &.active{
+                    a{background:#008000; color: #fff;}
+                }
+            }
+        }
+
+       
+    }
+
+    .right-bx{width: 73%; border: 1px solid #E2E2E2; }
+
+    .bx-header{ background:#F5F5F5; padding:12px 30px; display: flex; justify-content: space-between;
+            label{ text-transform: uppercase; font-weight: 500; font-size:16px}
+            .right-select{ display: flex; justify-content: space-between;align-items: center;
+                span{ margin-right: 10px;}
+                .dropdown-toggle{ border: 1px solid #707070; padding:5px 15px; width:200px; text-align: left;
+                    &:after{right: 12px; position: absolute;top: 12px;}
+                    
+                }
+                .dropdown-menu{ right: 0px !important; font-size:12px; color:#5D5D5D;} 
+            }
+    }
+
+    .bottom-box{
+        .table td, .table th{ padding:30px}
+        .table thead th{ border-bottom:1px solid #dee2e6; font-weight: 500; color: #B60008;}
+        .table tbody td, .table tbody th{ border-bottom:1px solid #dee2e6; font-weight: 300;} 
+        .table tbody:last-child{
+            td, th{ border-bottom:0px;}
+        }
+    }
+}
+
+table{ 
+    img{ max-width: inherit;}
+}
+//address
+.address{padding:30px; display: flex; justify-content: space-between; border-bottom:1px solid #dee2e6;
+        label{ font-size:16px; font-weight: 500; margin-bottom: 10px;}
+        p{ margin-bottom: 10px;}
+
+        &:last-child{ border-bottom:0px}
+}
+
+.add-new-button{border: 1px solid #707070; padding: 5px 15px; color: $black;}
+
+
+@media #{$break-mobile} {
+
+    .my-account-page{ display: block;
+        .left-sidebar{ width: inherit; margin-bottom: 20px;}
+        .right-bx{ width: inherit;}
+        .bx-header{
+            display:block;
+        }
+        .bx-header{ 
+            label{ display: block; margin-bottom: 10px;}
+            .right-select{margin-top: 10px; width: 100%;}
+        }
+    }
+}

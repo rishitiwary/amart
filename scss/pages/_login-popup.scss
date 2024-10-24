@@ -1,0 +1,80 @@
+.login-popup{ 
+
+    .modal-content{
+        &:before{ content:''; background: url(../images/popup/popup-left.png) no-repeat; position: absolute;
+            bottom:0px; left: 0px; height: 340px; width: 337px;
+    }
+
+    &:after{ content:''; background: url(../images/popup/popup-right.png) no-repeat; position: absolute;
+        top:0px; right: 0px; height: 209px; width: 181px;
+}
+
+
+    }
+
+       
+    .modal-lg{ max-width: 700px;}
+
+    .heading{ font-size:18px; padding-bottom: 30px; display: block;}
+
+
+    .modal-header{
+        figure{ margin: 0 auto; margin-top: 30px;}
+    }
+
+    form{ width: 350px; margin: 0 auto; position: relative; z-index: 99;
+    
+            input{ padding:10px 30px 10px 50px; border-bottom:2px solid #C5C5C5}
+
+            .form-control:focus{ border-bottom: 2px solid #B60008;}
+
+            .select-box{ position: relative; 
+
+                select{
+                    border:none; border-bottom:2px solid #C5C5C5; border-radius: 0px; font-size:14px; color: #8D8D8D;
+                       
+                }
+
+                &:after { content:''; background:url(../images/common/select-arrow.svg) no-repeat;
+                    position: absolute; top: 5px; right: 15px; width: 8px; height: 8px;   
+                }
+            }
+    }
+
+    .form-group{ position: relative; margin-bottom: 30px;
+        .f-icon{ position: absolute; top: 10px; left: 15px; width: 50px; 
+        }
+    }
+
+    .forgot-password{ text-align: right; color: #000; float:right; margin-top: 10px;}
+
+
+    .sign-in-button{ background:#B60008; color: #fff; border:2px solid #B60008; 
+        padding:12px 20px; font-size: 18px; font-weight: 500; border-radius: 5px; width: 48%;
+
+    }
+
+    .skip-button{@extend.sign-in-button; background: none; color:#B60008 ;
+
+      
+    }
+
+    .buttons-login{ display: flex; justify-content: space-between;}
+
+    .register-text{ text-align: center; margin:10px 0 50px;
+    
+            a{ color: $black; font-weight: 500;}
+    }
+
+    &.signup{
+        form input{ padding:10px 10px 10px 10px}
+        .sign-in-button{ width: 100%;}
+
+        .terms-text{ font-size:12px; text-align: center; color: #5A5A5A;
+        
+                a{ color: #5A5A5A;}
+        }
+
+        .paddding-20{ margin-bottom: 10px;}
+    }
+}

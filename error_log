@@ -1,0 +1,644 @@
+[24-Mar-2020 02:40:14 UTC] Unsuccessful login attempt()
+[24-Mar-2020 02:41:17 UTC] Unsuccessful login attempt(anilkumar140299@gmail.com)
+[24-Mar-2020 02:42:11 UTC] Unsuccessful login attempt(anilkumar140299@gmail.com)
+[24-Mar-2020 02:42:26 UTC] Unsuccessful login attempt()
+[24-Mar-2020 02:42:33 UTC] Unsuccessful login attempt(anilkumar140299@gmail.com)
+[24-Mar-2020 02:44:05 UTC] Unsuccessful login attempt(anilkumar140299@gmail.com)
+[24-Mar-2020 02:47:26 UTC] Unsuccessful login attempt(anilkumar140299@gmail.com)
+[24-Mar-2020 03:21:24 UTC] Unsuccessful login attempt(rockers1117@gmail.com)
+[24-Mar-2020 03:21:37 UTC] Unsuccessful login attempt(rockers1117@gmail.com)
+[24-Mar-2020 03:53:41 UTC] Unsuccessful login attempt(rockers1117@gmail.com)
+[24-Mar-2020 08:25:16 UTC] Unable to updateUserInfo()
+[24-Mar-2020 08:26:08 UTC] Unable to updateUserInfo()
+[24-Mar-2020 09:09:20 UTC] no user found getUserInfo(rockers111ee7@gmail.com)
+[24-Mar-2020 09:14:38 UTC] no user found getUserInfo(rockers1117@gmail.com7)
+[24-Mar-2020 09:17:56 UTC] no user found getUserInfo(rockers1117@gmail.com7)
+[24-Mar-2020 09:20:09 UTC] no user found getUserInfo(rockers1117@gmail.com7)
+[24-Mar-2020 09:52:40 UTC] no user found getUserInfo(rockers111ee7@gmail.com)
+[24-Mar-2020 09:54:29 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpukfy.php on line 16
+[24-Mar-2020 09:54:29 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpalsx.php on line 16
+[24-Mar-2020 10:12:15 UTC] Unsuccessful login attempt(anil@gmail.com)
+[24-Mar-2020 11:37:58 UTC] PHP Parse error:  syntax error, unexpected ''Y);?></span>' (T_ENCAPSED_AND_WHITESPACE) in /home/mroyallegend/public_html/application/views/index.php on line 345
+[24-Mar-2020 11:54:32 UTC] Unsuccessful login attempt(gabarohit1995@gmail.com)
+[24-Mar-2020 12:01:40 UTC] no user found getUserInfo(hxhxhx@gmail.com)
+[24-Mar-2020 12:29:13 UTC] Unsuccessful login attempt(gabarohit1995@gmail.com)
+[24-Mar-2020 14:13:34 UTC] Unsuccessful login attempt(hemant@aimstormsolutions.com)
+[24-Mar-2020 14:16:54 UTC] Unsuccessful login attempt(hemant@aimstormsolutions.com)
+[24-Mar-2020 21:53:28 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wp9owl.php on line 16
+[24-Mar-2020 21:53:28 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpvsln.php on line 16
+[27-Mar-2020 10:48:00 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/mroyallegend/public_html/application/controllers/Api.php on line 42
+[27-Mar-2020 10:52:13 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/mroyallegend/public_html/application/controllers/Api.php on line 40
+[27-Mar-2020 10:56:37 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/mroyallegend/public_html/application/controllers/Api.php on line 42
+[27-Mar-2020 11:13:37 UTC] Unsuccessful login attempt(anilkumar140299@gmail.com)
+[27-Mar-2020 16:02:42 UTC] PHP Fatal error:  Call to a member function library() on null in /home/mroyallegend/public_html/application/controllers/Data.php on line 8
+[27-Mar-2020 16:10:40 UTC] PHP Parse error:  syntax error, unexpected 'saloon' (T_STRING) in /home/mroyallegend/public_html/application/controllers/Data.php on line 101
+[27-Mar-2020 16:11:19 UTC] PHP Parse error:  syntax error, unexpected 'inner' (T_STRING) in /home/mroyallegend/public_html/application/controllers/Data.php on line 101
+[27-Mar-2020 16:50:50 UTC] PHP Fatal error:  Call to a member function validateEntry() on null in /home/mroyallegend/public_html/application/controllers/Data.php on line 152
+[27-Mar-2020 18:33:20 UTC] Unsuccessful login attempt(anilkumar14029@gmail.com)
+[27-Mar-2020 21:54:12 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpus5m.php on line 16
+[27-Mar-2020 21:54:12 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wp66ll.php on line 16
+[28-Mar-2020 05:38:28 UTC] Unsuccessful login attempt(arjun98@gmail.com)
+[28-Mar-2020 05:49:25 UTC] Unsuccessful login attempt(gabarohit1995@gmail.com)
+[28-Mar-2020 05:49:39 UTC] Unsuccessful login attempt(gabarohit1995@gmail.com)
+[28-Mar-2020 05:49:47 UTC] Unsuccessful login attempt(gabarohit1995@gmail.com)
+[28-Mar-2020 05:55:10 UTC] Unsuccessful login attempt(anil@gmail.com)
+[28-Mar-2020 05:56:09 UTC] Unsuccessful login attempt(anil@gmail.com)
+[28-Mar-2020 06:10:59 UTC] Unsuccessful login attempt(anil@gmail.com)
+[28-Mar-2020 06:11:27 UTC] Unsuccessful login attempt(gabarohit1995@gmail.com)
+[28-Mar-2020 06:12:21 UTC] Unsuccessful login attempt(gabarohit1995@gmail.com)
+[28-Mar-2020 06:17:42 UTC] Unsuccessful login attempt(anil@gmail.com)
+[28-Mar-2020 06:36:36 UTC] Unsuccessful login attempt(anil@gmail.com)
+[28-Mar-2020 09:52:12 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wp6ofp.php on line 16
+[28-Mar-2020 09:52:12 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpjn6v.php on line 16
+[28-Mar-2020 11:36:26 UTC] Unsuccessful login attempt(anil@gmail.com)
+[28-Mar-2020 11:39:27 UTC] Unsuccessful login attempt(amit@gmail.com)
+[28-Mar-2020 11:46:51 UTC] Unsuccessful login attempt(amit@gmail.com)
+[28-Mar-2020 11:47:50 UTC] Unsuccessful login attempt(amit@gmail.com)
+[28-Mar-2020 11:50:17 UTC] Unsuccessful login attempt(amit@gmail.com)
+[28-Mar-2020 11:50:35 UTC] Unsuccessful login attempt(amit@gmail.com)
+[28-Mar-2020 11:53:22 UTC] Unsuccessful login attempt(amit@gmail.com)
+[28-Mar-2020 11:53:27 UTC] Unsuccessful login attempt(amit@gmail.com)
+[28-Mar-2020 11:53:39 UTC] Unsuccessful login attempt(amit@gmail.com)
+[28-Mar-2020 12:10:21 UTC] Unsuccessful login attempt(amit@gmail.com)
+[28-Mar-2020 12:13:40 UTC] Unsuccessful login attempt(ami@gmail.com)
+[28-Mar-2020 14:16:32 UTC] Unsuccessful login attempt(gabarohit1995@gmail.com)
+[28-Mar-2020 14:18:48 UTC] PHP Fatal error:  Call to a member function set_rules() on null in /home/mroyallegend/public_html/application/controllers/Data.php on line 261
+[28-Mar-2020 14:45:29 UTC] no user found getUserInfo(rockers111@gmail.com)
+[28-Mar-2020 14:48:52 UTC] no user found getUserInfo(singtest@gmail.com)
+[28-Mar-2020 14:50:57 UTC] no user found getUserInfo(tesr@gmail.com)
+[28-Mar-2020 14:51:54 UTC] no user found getUserInfo(test@gmail.com)
+[28-Mar-2020 14:52:55 UTC] no user found getUserInfo(test@gmail.com)
+[28-Mar-2020 17:09:39 UTC] Unsuccessful login attempt(signtest70@gmail.com)
+[28-Mar-2020 17:09:48 UTC] Unsuccessful login attempt(signtest70@gmail.com)
+[28-Mar-2020 17:10:26 UTC] Unsuccessful login attempt(signtest70@gmail.com)
+[29-Mar-2020 02:23:30 UTC] Unable to updatePassword()
+[29-Mar-2020 09:53:03 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpxj9d.php on line 16
+[29-Mar-2020 09:53:03 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpbcmp.php on line 16
+[29-Mar-2020 12:40:26 UTC] Unsuccessful login attempt(r@r.com)
+[29-Mar-2020 13:41:03 UTC] PHP Fatal error:  Call to a member function read_file() on null in /home/mroyallegend/public_html/application/controllers/Api.php on line 562
+[29-Mar-2020 13:59:53 UTC] PHP Fatal error:  Function name must be a string in /home/mroyallegend/public_html/application/controllers/Api.php on line 560
+[29-Mar-2020 15:14:08 UTC] Unsuccessful login attempt(gabarohit1995@gmail.com)
+[30-Mar-2020 01:32:51 UTC] PHP Fatal error:  Call to a member function select() on null in /home/mroyallegend/public_html/application/controllers/Api.php on line 560
+[30-Mar-2020 01:33:00 UTC] PHP Fatal error:  Call to a member function select() on null in /home/mroyallegend/public_html/application/controllers/Api.php on line 560
+[30-Mar-2020 01:40:57 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/mroyallegend/public_html/application/views/admin/about.php on line 39
+[30-Mar-2020 01:44:48 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/mroyallegend/public_html/application/views/admin/about.php on line 39
+[30-Mar-2020 01:49:08 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/mroyallegend/public_html/application/views/admin/about.php on line 39
+[30-Mar-2020 01:50:01 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/mroyallegend/public_html/application/views/admin/about.php on line 39
+[30-Mar-2020 02:11:47 UTC] PHP Fatal error:  Call to undefined function peint_r() in /home/mroyallegend/public_html/application/controllers/Data.php on line 402
+[30-Mar-2020 03:55:16 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpyish.php on line 16
+[30-Mar-2020 03:55:17 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpk51t.php on line 16
+[30-Mar-2020 09:30:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/mroyallegend/public_html/application/views/admin/index.php on line 40
+[30-Mar-2020 09:30:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/mroyallegend/public_html/application/views/admin/index.php on line 40
+[30-Mar-2020 09:54:08 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpwxj9.php on line 16
+[30-Mar-2020 09:54:08 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wphuth.php on line 16
+[30-Mar-2020 12:54:26 UTC] Unsuccessful login attempt(gabarohit1995@gmail.com)
+[30-Mar-2020 13:43:09 UTC] PHP Fatal error:  Call to a member function checkLevel() on null in /home/mroyallegend/public_html/application/controllers/Admin.php on line 56
+[30-Mar-2020 13:43:23 UTC] PHP Fatal error:  Call to a member function checkLevel() on null in /home/mroyallegend/public_html/application/controllers/Admin.php on line 56
+[30-Mar-2020 15:14:27 UTC] PHP Fatal error:  Call to undefined method Basic_operation::update() in /home/mroyallegend/public_html/application/controllers/Data.php on line 504
+[30-Mar-2020 15:22:07 UTC] PHP Fatal error:  Call to undefined method Basic_operation::update() in /home/mroyallegend/public_html/application/controllers/Data.php on line 505
+[30-Mar-2020 15:24:01 UTC] PHP Fatal error:  Call to undefined method Basic_operation::update() in /home/mroyallegend/public_html/application/controllers/Data.php on line 506
+[30-Mar-2020 15:26:30 UTC] PHP Fatal error:  Call to undefined method Basic_operation::update() in /home/mroyallegend/public_html/application/controllers/Data.php on line 506
+[31-Mar-2020 01:08:19 UTC] PHP Fatal error:  Call to a member function order_by() on null in /home/mroyallegend/public_html/application/models/Basic_operation.php on line 20
+[31-Mar-2020 03:32:20 UTC] Unsuccessful login attempt(rockers1117@gmail.com)
+[31-Mar-2020 08:12:59 UTC] PHP Fatal error:  Call to undefined method Basic_operation::insertDetails() in /home/mroyallegend/public_html/application/controllers/Admin.php on line 119
+[31-Mar-2020 08:21:50 UTC] PHP Fatal error:  Call to undefined method Main::uniqueSelect() in /home/mroyallegend/public_html/application/controllers/Main.php on line 42
+[31-Mar-2020 08:22:35 UTC] PHP Fatal error:  Call to undefined method Main::Uniqueselect() in /home/mroyallegend/public_html/application/controllers/Main.php on line 42
+[31-Mar-2020 09:55:05 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpjwsq.php on line 16
+[31-Mar-2020 09:55:06 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpkemm.php on line 16
+[31-Mar-2020 15:53:19 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wp9xnk.php on line 16
+[31-Mar-2020 15:53:20 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpoech.php on line 16
+[01-Apr-2020 03:54:31 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpessf.php on line 16
+[01-Apr-2020 03:54:31 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wppyv7.php on line 16
+[01-Apr-2020 09:54:18 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wphyhq.php on line 16
+[01-Apr-2020 09:54:19 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpmgwz.php on line 16
+[02-Apr-2020 09:53:18 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpk2ud.php on line 16
+[02-Apr-2020 09:53:18 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpalju.php on line 16
+[02-Apr-2020 21:52:58 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpypru.php on line 16
+[02-Apr-2020 21:52:58 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpprcp.php on line 16
+[03-Apr-2020 03:51:58 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpil9k.php on line 16
+[03-Apr-2020 03:51:58 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpw4em.php on line 16
+[03-Apr-2020 09:52:14 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wp2qnq.php on line 16
+[03-Apr-2020 09:52:15 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpejvu.php on line 16
+[03-Apr-2020 15:51:42 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wphehp.php on line 16
+[03-Apr-2020 15:51:42 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpcf09.php on line 16
+[03-Apr-2020 21:50:36 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpfc21.php on line 16
+[03-Apr-2020 21:50:37 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpfgyi.php on line 16
+[04-Apr-2020 09:51:03 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpy5e8.php on line 16
+[04-Apr-2020 09:51:03 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpr3ob.php on line 16
+[05-Apr-2020 09:51:47 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpnday.php on line 16
+[05-Apr-2020 09:51:47 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpapjo.php on line 16
+[06-Apr-2020 09:52:16 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wphllh.php on line 16
+[06-Apr-2020 09:52:16 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wp7kvf.php on line 16
+[06-Apr-2020 21:52:42 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpd9ao.php on line 16
+[06-Apr-2020 21:52:42 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpgbnu.php on line 16
+[07-Apr-2020 06:27:16 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result() in /home/mroyallegend/public_html/application/controllers/Data.php on line 135
+[07-Apr-2020 06:28:37 UTC] PHP Fatal error:  Call to a member function query() on null in /home/mroyallegend/public_html/application/controllers/Data.php on line 134
+[07-Apr-2020 07:00:40 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/mroyallegend/public_html/application/controllers/Data.php on line 173
+[07-Apr-2020 07:17:29 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/mroyallegend/public_html/application/controllers/Data.php on line 174
+[07-Apr-2020 08:15:36 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/mroyallegend/public_html/application/controllers/Data.php on line 174
+[07-Apr-2020 09:52:13 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpy3kb.php on line 16
+[07-Apr-2020 09:52:13 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpsy0y.php on line 16
+[08-Apr-2020 09:44:23 UTC] Unsuccessful login attempt(anilkumar1402@gmail.com)
+[08-Apr-2020 09:53:00 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpbxqd.php on line 16
+[08-Apr-2020 09:53:00 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpiniz.php on line 16
+[08-Apr-2020 21:51:45 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpeazv.php on line 16
+[08-Apr-2020 21:51:45 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wp9ufq.php on line 16
+[09-Apr-2020 03:51:44 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpvmse.php on line 16
+[09-Apr-2020 03:51:44 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpqim4.php on line 16
+[09-Apr-2020 09:52:15 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpfbx4.php on line 16
+[09-Apr-2020 09:52:15 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpyqze.php on line 16
+[10-Apr-2020 09:53:21 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wp1omq.php on line 16
+[10-Apr-2020 09:53:21 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpg5vn.php on line 16
+[10-Apr-2020 21:53:31 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpmdhw.php on line 16
+[10-Apr-2020 21:53:31 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpr6r1.php on line 16
+[11-Apr-2020 09:51:33 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpexab.php on line 16
+[11-Apr-2020 09:51:33 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpiftl.php on line 16
+[11-Apr-2020 21:51:49 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpaypx.php on line 16
+[11-Apr-2020 21:51:49 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wp1aci.php on line 16
+[12-Apr-2020 06:02:04 UTC] Unsuccessful login attempt(testsingh17@gmail.com)
+[12-Apr-2020 06:02:09 UTC] Unsuccessful login attempt(testsingh17@gmail.com)
+[12-Apr-2020 09:52:13 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wptmeg.php on line 16
+[12-Apr-2020 09:52:13 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wphjil.php on line 16
+[12-Apr-2020 12:22:08 UTC] Unsuccessful login attempt(testsingh745@gmail.com)
+[12-Apr-2020 12:22:22 UTC] Unsuccessful login attempt(testsingh745@gmail.com)
+[12-Apr-2020 12:54:52 UTC] no user found getUserInfo(testsingh745@gmail.com)
+[12-Apr-2020 21:51:43 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpfr8h.php on line 16
+[12-Apr-2020 21:51:43 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpwbsf.php on line 16
+[13-Apr-2020 09:51:17 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpjzz5.php on line 16
+[13-Apr-2020 09:51:17 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpt3wf.php on line 16
+[14-Apr-2020 09:53:24 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wprzvk.php on line 16
+[14-Apr-2020 09:53:25 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpjjel.php on line 16
+[14-Apr-2020 21:51:42 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpr9zq.php on line 16
+[14-Apr-2020 21:51:43 UTC] PHP Fatal error:  Call to undefined function get_transient() in /home/mroyallegend/public_html/deleteme.wpbocz.php on line 16
+[22-Apr-2020 10:26:44 UTC] PHP Fatal error:  Call to undefined method CI_Output::clear_all_cache() in /home/cheersonlinesale/public_html/application/controllers/Home.php on line 31
+[22-Apr-2020 11:43:35 UTC] Unsuccessful login attempt(abhi@gmail.com)
+[22-Apr-2020 12:31:04 UTC] Unsuccessful login attempt(admin@dashboard.com)
+[22-Apr-2020 13:46:32 UTC] Unsuccessful login attempt(anilkumar140299@gmail.com)
+[22-Apr-2020 13:58:56 UTC] Unsuccessful login attempt(asdfg@gmail.com)
+[22-Apr-2020 14:16:59 UTC] Unsuccessful login attempt(amanqaimi@gmail.com)
+[22-Apr-2020 14:51:21 UTC] Unsuccessful login attempt(manoj@ncth.ae)
+[23-Apr-2020 02:07:02 UTC] Unsuccessful login attempt(abhi@gmail.com)
+[23-Apr-2020 02:09:43 UTC] Unsuccessful login attempt(abhi@gmail.com)
+[23-Apr-2020 02:10:34 UTC] Unsuccessful login attempt(abhi@gmail.com)
+[23-Apr-2020 02:11:22 UTC] Unsuccessful login attempt(abhi@gmail.com)
+[23-Apr-2020 02:11:32 UTC] Unsuccessful login attempt(abhi@gmail.com)
+[23-Apr-2020 02:30:34 UTC] no user found getUserInfo(qwe@gmail.com)
+[23-Apr-2020 02:30:42 UTC] no user found getUserInfo(anilkumar140299@gmail.com)
+[23-Apr-2020 02:30:45 UTC] no user found getUserInfo(anilkumar140299@gmail.com)
+[23-Apr-2020 02:30:46 UTC] no user found getUserInfo(anilkumar140299@gmail.com)
+[23-Apr-2020 02:30:46 UTC] no user found getUserInfo(anilkumar140299@gmail.com)
+[23-Apr-2020 02:30:46 UTC] no user found getUserInfo(anilkumar140299@gmail.com)
+[23-Apr-2020 02:36:08 UTC] Unsuccessful login attempt(rockers1117@gmail.com)
+[23-Apr-2020 13:13:39 UTC] Unsuccessful login attempt(manoj@ncth.e)
+[23-Apr-2020 13:13:47 UTC] Unsuccessful login attempt(manoj@ncth.e)
+[28-Apr-2020 04:52:38 UTC] no user found getUserInfo(anilkumar140299@gmail.com8)
+[28-Apr-2020 04:52:38 UTC] no user found getUserInfo(anilkumar140299@gmail.com8)
+[28-Apr-2020 04:54:39 UTC] no user found getUserInfo(anilkumar140299@gmail.com8)
+[28-Apr-2020 04:54:39 UTC] no user found getUserInfo(anilkumar140299@gmail.com8)
+[28-Apr-2020 07:48:13 UTC] PHP Fatal error:  Call to a member function isDuplicate() on null in /home/cheersonlinesale/public_html/application/controllers/App.php on line 147
+[28-Apr-2020 07:56:06 UTC] no user found getUserInfo(qwer@hml.com)
+[29-Apr-2020 09:32:50 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[29-Apr-2020 11:03:19 UTC] Unsuccessful login attempt(amanqaimi@gmail.com)
+[29-Apr-2020 11:22:17 UTC] Unsuccessful login attempt(manoj@ncth.e)
+[29-Apr-2020 11:22:34 UTC] Unsuccessful login attempt(manoj@ncth.e)
+[29-Apr-2020 11:22:55 UTC] no user found getUserInfo(manoj@ncth.ae)
+[29-Apr-2020 11:49:22 UTC] no user found getUserInfo(thushil_83@yahoo.com)
+[29-Apr-2020 11:51:31 UTC] Unsuccessful login attempt(sommeleric1@gmail.com)
+[29-Apr-2020 11:52:34 UTC] Unsuccessful login attempt(eric@cheersabudhabi.com)
+[29-Apr-2020 11:53:13 UTC] Unsuccessful login attempt(thushil_83@yahoo.com)
+[29-Apr-2020 11:53:34 UTC] Unsuccessful login attempt(eric@cheersabudhabi.com)
+[29-Apr-2020 11:56:01 UTC] Unsuccessful login attempt(eric@cheersabudhabi.com)
+[29-Apr-2020 12:08:44 UTC] Unsuccessful login attempt(eric@cheersabudhabi.com)
+[29-Apr-2020 12:08:58 UTC] no user found getUserInfo(eric@cheersabudhabi.com)
+[29-Apr-2020 12:11:08 UTC] Unsuccessful login attempt(ganesh_83430@yahoo.co.in)
+[29-Apr-2020 12:17:13 UTC] Unsuccessful login attempt(mark@ncth.ae)
+[29-Apr-2020 12:17:30 UTC] Unsuccessful login attempt(info@cheersabudhabi.com)
+[29-Apr-2020 12:22:45 UTC] Unsuccessful login attempt(info@cheersabudhabi.com)
+[29-Apr-2020 12:23:10 UTC] Unsuccessful login attempt(info@cheersabudhabi.com)
+[29-Apr-2020 12:23:17 UTC] Unsuccessful login attempt(info@cheersabudhabi.com)
+[29-Apr-2020 12:26:40 UTC] Unsuccessful login attempt(thushil_83@yahoo.com)
+[29-Apr-2020 12:26:45 UTC] Unsuccessful login attempt(thushil_83@yahoo.com)
+[29-Apr-2020 12:27:11 UTC] Unsuccessful login attempt(info@cheersabudhabi.com)
+[29-Apr-2020 12:27:17 UTC] Unsuccessful login attempt(info@cheersabudhabi.com)
+[29-Apr-2020 12:27:27 UTC] Unsuccessful login attempt(info@cheersabudhabi.com)
+[29-Apr-2020 12:27:41 UTC] Unsuccessful login attempt(info@cheersabudhabi.com)
+[29-Apr-2020 12:39:34 UTC] Unsuccessful login attempt(k.ruffer@cheersabudhabi.com)
+[29-Apr-2020 12:39:55 UTC] no user found getUserInfo(k.ruffer@cheersabudhabi.com)
+[29-Apr-2020 12:40:44 UTC] Unsuccessful login attempt(ganeshk@cheersabudhabi.com)
+[29-Apr-2020 12:40:54 UTC] Unsuccessful login attempt(ganeshk@cheersabudhabi.com)
+[29-Apr-2020 12:42:14 UTC] no user found getUserInfo(k.ruffer@cheersabudhabi.com)
+[29-Apr-2020 12:42:16 UTC] no user found getUserInfo(k.ruffer@cheersabudhabi.com)
+[29-Apr-2020 12:42:20 UTC] no user found getUserInfo(k.ruffer@cheersabudhabi.com)
+[29-Apr-2020 12:42:21 UTC] no user found getUserInfo(k.ruffer@cheersabudhabi.com)
+[29-Apr-2020 12:42:21 UTC] no user found getUserInfo(k.ruffer@cheersabudhabi.com)
+[29-Apr-2020 12:42:23 UTC] no user found getUserInfo(k.ruffer@cheersabudhabi.com)
+[29-Apr-2020 13:57:11 UTC] Unsuccessful login attempt(rockers1117@gmail.com)
+[29-Apr-2020 15:05:06 UTC] Unsuccessful login attempt(eric@cheersabudhabi.com)
+[29-Apr-2020 17:29:49 UTC] Unsuccessful login attempt(amanqaimi@gmail.com)
+[29-Apr-2020 17:29:57 UTC] Unsuccessful login attempt(amanqaimi@gmail.com)
+[29-Apr-2020 17:29:58 UTC] Unsuccessful login attempt(amanqaimi@gmail.com)
+[29-Apr-2020 17:30:00 UTC] Unsuccessful login attempt(amanqaimi@gmail.com)
+[29-Apr-2020 17:30:00 UTC] Unsuccessful login attempt(amanqaimi@gmail.com)
+[29-Apr-2020 17:30:00 UTC] Unsuccessful login attempt(amanqaimi@gmail.com)
+[29-Apr-2020 17:30:00 UTC] Unsuccessful login attempt(amanqaimi@gmail.com)
+[30-Apr-2020 06:52:56 UTC] Unsuccessful login attempt(k.ruffer@cheersabudhabi.com)
+[01-May-2020 02:54:11 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/cheersonlinesale/public_html/application/controllers/App.php on line 611
+[04-May-2020 06:37:20 UTC] Unsuccessful login attempt(support@cheersonlinesales.com)
+[04-May-2020 06:37:20 UTC] Unsuccessful login attempt(support@cheersonlinesales.com)
+[04-May-2020 06:37:27 UTC] Unsuccessful login attempt(support@cheersonlinesales.com)
+[04-May-2020 14:26:32 UTC] Unsuccessful login attempt(rockers1117@gmail.com)
+[04-May-2020 14:33:04 UTC] Unsuccessful login attempt(rockers1117@gmail.com)
+[04-May-2020 15:43:20 UTC] Unsuccessful login attempt(rockers1117@gmail.com)
+[04-May-2020 15:58:51 UTC] PHP Fatal error:  Call to a member function getAllSettings() on null in /home/cheersonlinesale/public_html/application/views/header.php on line 4
+[04-May-2020 16:45:15 UTC] PHP Parse error:  syntax error, unexpected ''home/menus);?>' (T_ENCAPSED_AND_WHITESPACE) in /home/cheersonlinesale/public_html/application/views/home/header.php on line 280
+[05-May-2020 18:10:29 UTC] Unsuccessful login attempt(rockers1117@gmail.com)
+[05-May-2020 18:10:33 UTC] Unsuccessful login attempt(rockers1117@gmail.com)
+[05-May-2020 18:10:34 UTC] Unsuccessful login attempt(rockers1117@gmail.com)
+[05-May-2020 18:10:56 UTC] Unsuccessful login attempt(rockers1117@gmail.com)
+[06-May-2020 06:01:11 UTC] Unsuccessful login attempt(rockers1117@gmail.com)
+[06-May-2020 06:01:59 UTC] Unsuccessful login attempt(abhi@gmail.com)
+[06-May-2020 06:04:27 UTC] Unsuccessful login attempt(dard420@gmail.com)
+[06-May-2020 06:04:36 UTC] Unsuccessful login attempt(dard420@gmail.com)
+[06-May-2020 06:05:11 UTC] Unsuccessful login attempt(dard420@gmail.com)
+[06-May-2020 06:26:27 UTC] Unsuccessful login attempt(abhi@gmail.com)
+[06-May-2020 06:27:40 UTC] Unsuccessful login attempt(abhi@gmail.com)
+[06-May-2020 06:27:43 UTC] Unsuccessful login attempt(abhi@gmail.com)
+[06-May-2020 10:21:55 UTC] PHP Fatal error:  Function name must be a string in /home/cheersonlinesale/public_html/application/controllers/Admin.php on line 55
+[06-May-2020 10:26:26 UTC] PHP Fatal error:  Function name must be a string in /home/cheersonlinesale/public_html/application/controllers/Admin.php on line 48
+[06-May-2020 11:02:11 UTC] PHP Fatal error:  Call to undefined function Uniqueselect() in /home/cheersonlinesale/public_html/application/controllers/App.php on line 814
+[06-May-2020 15:06:23 UTC] Unsuccessful login attempt(dilip@gmail.com)
+[06-May-2020 15:06:24 UTC] Unsuccessful login attempt(dilip@gmail.com)
+[06-May-2020 15:25:55 UTC] Unsuccessful login attempt(dilip@gmail.com)
+[06-May-2020 15:25:56 UTC] Unsuccessful login attempt(dilip@gmail.com)
+[06-May-2020 15:26:00 UTC] Unsuccessful login attempt(dilip@gmail.com)
+[06-May-2020 15:28:02 UTC] Unsuccessful login attempt(rockers1117@gmail.com)
+[06-May-2020 15:28:22 UTC] no user found getUserInfo(anilkumar140299@gmail.com)
+[06-May-2020 19:17:45 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/cheersonlinesale/public_html/application/views/admin/category.php on line 60
+[07-May-2020 03:49:11 UTC] Unsuccessful login attempt(dilip@gmail.com)
+[07-May-2020 03:49:12 UTC] Unsuccessful login attempt(dilip@gmail.com)
+[07-May-2020 03:53:32 UTC] no user found getUserInfo(anilkumar140299@gmail.com)
+[07-May-2020 04:06:31 UTC] no user found getUserInfo(dilp@gmail.com)
+[07-May-2020 04:06:32 UTC] no user found getUserInfo(dilp@gmail.com)
+[07-May-2020 04:06:38 UTC] no user found getUserInfo(dilp@gmail.com)
+[07-May-2020 05:36:48 UTC] no user found getUserInfo(dilip@gmasil.com)
+[08-May-2020 10:55:36 UTC] Unsuccessful login attempt(support@cheersonlinesales.com)
+[08-May-2020 10:56:33 UTC] Unsuccessful login attempt(support@cheersonlinesales.com)
+[08-May-2020 10:57:36 UTC] Unsuccessful login attempt(support@cheersonlinesales.com)
+[08-May-2020 10:57:45 UTC] Unsuccessful login attempt(support@cheersonlinesales.com)
+[08-May-2020 11:12:14 UTC] no user found getUserInfo(asdf@gmail.com)
+[08-May-2020 11:13:29 UTC] no user found getUserInfo(g@mail.com)
+[08-May-2020 11:59:05 UTC] Unsuccessful login attempt(vyqew@mailinator.com)
+[08-May-2020 11:59:18 UTC] no user found getUserInfo(nedi@mailinator.com)
+[08-May-2020 11:59:23 UTC] no user found getUserInfo(nedi@mailinator.com)
+[08-May-2020 11:59:24 UTC] no user found getUserInfo(nedi@mailinator.com)
+[08-May-2020 11:59:25 UTC] no user found getUserInfo(nedi@mailinator.com)
+[08-May-2020 11:59:25 UTC] no user found getUserInfo(nedi@mailinator.com)
+[08-May-2020 11:59:26 UTC] no user found getUserInfo(nedi@mailinator.com)
+[08-May-2020 11:59:51 UTC] no user found getUserInfo(nedi@mailinator.com)
+[08-May-2020 11:59:59 UTC] no user found getUserInfo(nedi@mailinator.com)
+[08-May-2020 12:00:49 UTC] no user found getUserInfo(ruzeju@mailinator.net)
+[08-May-2020 12:01:46 UTC] no user found getUserInfo(defocu@mailinator.com)
+[08-May-2020 12:01:53 UTC] no user found getUserInfo(defocu@mailinator.com)
+[08-May-2020 12:01:53 UTC] no user found getUserInfo(defocu@mailinator.com)
+[08-May-2020 12:01:58 UTC] no user found getUserInfo(guxynazil@mailinator.net)
+[08-May-2020 12:02:14 UTC] Unsuccessful login attempt(vuky@mailinator.net)
+[08-May-2020 12:02:45 UTC] Unsuccessful login attempt(nagaf@mailinator.net)
+[08-May-2020 12:02:54 UTC] no user found getUserInfo(doqil@mailinator.net)
+[08-May-2020 19:20:11 UTC] Unsuccessful login attempt(support@cheersonlinesales.com)
+[09-May-2020 01:05:29 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::results() in /home/cheersonlinesale/public_html/application/controllers/Home.php on line 19
+[09-May-2020 01:22:42 UTC] PHP Fatal error:  Call to undefined function url() in /home/cheersonlinesale/public_html/application/views/home/shop.php on line 102
+[09-May-2020 03:53:18 UTC] Unsuccessful login attempt(admin@gmail.com)
+[09-May-2020 06:39:11 UTC] PHP Fatal error:  Call to undefined method Home::group_by() in /home/cheersonlinesale/public_html/application/controllers/Home.php on line 224
+[09-May-2020 08:11:02 UTC] no user found getUserInfo(dgfdg@jgjh.com)
+[09-May-2020 09:23:22 UTC] PHP Fatal error:  Call to a member function initialize() on null in /home/cheersonlinesale/public_html/application/controllers/Admin.php on line 128
+[09-May-2020 11:17:37 UTC] Unsuccessful login attempt(asd@gmail.com)
+[09-May-2020 13:58:47 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /home/cheersonlinesale/public_html/application/controllers/Admin.php on line 37
+[09-May-2020 13:59:07 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/cheersonlinesale/public_html/application/controllers/Admin.php on line 47
+[09-May-2020 14:19:43 UTC] Unsuccessful login attempt(support@cheersonlinesales.com)
+[10-May-2020 04:32:17 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/cheersonlinesale/public_html/application/views/home/product_detail.php on line 29
+[25-May-2020 05:01:36 UTC] Unsuccessful login attempt(anilkumar@gmail.com)
+[31-May-2020 06:14:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/anchorfresh/public_html/application/views/home/header.php on line 364
+[31-May-2020 06:41:07 UTC] PHP Fatal error:  Call to undefined method stdClass::result() in /home/anchorfresh/public_html/application/views/home/header.php on line 9
+[02-Jun-2020 07:39:45 UTC] Unsuccessful login attempt(anilkumar@gmail.com)
+[06-Jun-2020 12:23:21 UTC] no user found getUserInfo(duxinalij@mailinator.net)
+[06-Jun-2020 12:24:36 UTC] no user found getUserInfo(duxinalij@mailinator.net)
+[06-Jun-2020 12:25:11 UTC] no user found getUserInfo(anilkumar@gmail.comuu)
+[06-Jun-2020 12:27:20 UTC] no user found getUserInfo(duxinalij@mailinator.net)
+[06-Jun-2020 12:51:01 UTC] Unsuccessful login attempt(anilkumar140299@gmail.com)
+[06-Jun-2020 12:55:04 UTC] Unsuccessful login attempt(anilkumar140299@gmail.com)
+[07-Jun-2020 09:14:52 UTC] Unsuccessful login attempt(anilkumar140299@gmail.com)
+[07-Jun-2020 15:15:54 UTC] Unsuccessful login attempt(anilkumar140299@gmail.com)
+[14-Jun-2020 10:08:49 UTC] Unsuccessful login attempt(denial.edward420@gmail.com)
+[14-Jun-2020 10:08:58 UTC] Unsuccessful login attempt(denial.edward420@gmail.com)
+[14-Jun-2020 10:13:54 UTC] no user found getUserInfo(denial.edward420@gmail.com)
+[14-Jun-2020 10:15:28 UTC] Unsuccessful login attempt(denial.edward420@gmail.com)
+[14-Jun-2020 10:16:11 UTC] Unable to updateUserInfo(94)
+[14-Jun-2020 10:19:54 UTC] Unsuccessful login attempt(denial.edward420@gmail.com)
+[14-Jun-2020 10:23:45 UTC] no user found getUserInfo(anilkumar140299@gmail.io)
+[14-Jun-2020 10:25:53 UTC] Unsuccessful login attempt(anilkumar140299@gmail.com)
+[14-Jun-2020 15:25:21 UTC] Unsuccessful login attempt(anilkumar140229@gmail.com)
+[14-Jun-2020 16:27:39 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[14-Jun-2020 16:27:47 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[15-Jun-2020 16:34:44 UTC] Unable to updateUserInfo(99)
+[16-Jun-2020 07:26:35 UTC] PHP Fatal error:  Call to undefined function links() in /home/anchorfresh/public_html/application/views/home/shopping.php on line 135
+[16-Jun-2020 11:18:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/anchorfresh/public_html/application/views/home/header.php on line 423
+[16-Jun-2020 11:38:05 UTC] Unsuccessful login attempt(anilkumar@gmail.com)
+[16-Jun-2020 11:38:17 UTC] Unsuccessful login attempt(anilkumar@gmail.com)
+[20-Jun-2020 08:19:49 UTC] Unable to updateUserInfo(101)
+[20-Jun-2020 14:37:44 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[20-Jun-2020 17:22:31 UTC] Unsuccessful login attempt(admin@anchorfresh.ae)
+[20-Jun-2020 17:22:40 UTC] Unsuccessful login attempt(admin@anchorfresh.ae)
+[20-Jun-2020 17:25:12 UTC] Unsuccessful login attempt(admin@anchorfresh.ae)
+[20-Jun-2020 17:25:32 UTC] Unsuccessful login attempt(admin@anchorfresh.ae)
+[20-Jun-2020 17:25:43 UTC] Unsuccessful login attempt(admin@anchorfresh.ae)
+[20-Jun-2020 17:25:52 UTC] Unsuccessful login attempt(admin@anchorfresh.ae)
+[20-Jun-2020 17:26:41 UTC] Unsuccessful login attempt(anilkumar@gmail.com)
+[20-Jun-2020 17:27:03 UTC] Unsuccessful login attempt(anilkumar@gmail.com)
+[20-Jun-2020 17:27:14 UTC] Unsuccessful login attempt(anilkumar@gmail.com)
+[20-Jun-2020 17:28:15 UTC] Unsuccessful login attempt(anilkumar@gmail.com)
+[20-Jun-2020 18:19:55 UTC] Unable to updateUserInfo(103)
+[21-Jun-2020 05:58:03 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/anchorfresh/public_html/application/views/home/homepage.php on line 343
+[21-Jun-2020 08:06:31 UTC] Unable to updateUserInfo(104)
+[21-Jun-2020 08:27:35 UTC] Unsuccessful login attempt(t@gmail.com)
+[21-Jun-2020 08:30:42 UTC] PHP Fatal error:  Call to a member function Uniqueselect() on null in /home/anchorfresh/public_html/application/controllers/App.php on line 1342
+[21-Jun-2020 08:34:15 UTC] Unable to updateUserInfo(108)
+[21-Jun-2020 08:56:59 UTC] Unsuccessful login attempt(anilkumar@gmail.com)
+[21-Jun-2020 13:31:00 UTC] Unsuccessful login attempt(qwerty@gmail.com77)
+[22-Jun-2020 05:21:29 UTC] Unsuccessful login attempt(admin@anchorfresh.ae)
+[22-Jun-2020 05:21:42 UTC] Unsuccessful login attempt(admin@anchorfresh.ae)
+[22-Jun-2020 05:22:47 UTC] Unsuccessful login attempt(admin@anchorfresh.ae)
+[22-Jun-2020 05:23:00 UTC] Unsuccessful login attempt(admin@anchorfresh.ae)
+[22-Jun-2020 05:23:18 UTC] Unsuccessful login attempt(admin@anchorfresh.ae)
+[22-Jun-2020 05:23:39 UTC] Unsuccessful login attempt(admin@anchorfresh.ae)
+[22-Jun-2020 05:23:55 UTC] Unsuccessful login attempt(admin@anchorfresh.ae)
+[22-Jun-2020 07:37:14 UTC] Unsuccessful login attempt(saint.twinkle1996@gmail.com)
+[22-Jun-2020 07:52:03 UTC] Unsuccessful login attempt(saint.twinkle1996@gmail.co)
+[22-Jun-2020 08:08:29 UTC] no user found getUserInfo(anilkumar140299@gmail.c)
+[22-Jun-2020 09:07:00 UTC] no user found getUserInfo(saint.twinkle1996@gmail.co)
+[22-Jun-2020 12:02:31 UTC] Unsuccessful login attempt(anilkumar@gmail.com)
+[22-Jun-2020 12:02:37 UTC] Unsuccessful login attempt(anilkumar@gmail.com)
+[22-Jun-2020 12:10:37 UTC] Unsuccessful login attempt(admin@anchorfresh.ar)
+[23-Jun-2020 17:07:36 UTC] Unsuccessful login attempt(rajputsachin2011@gmail.com)
+[23-Jun-2020 17:07:57 UTC] Unsuccessful login attempt(rajputsachin2011@gmail.com)
+[24-Jun-2020 07:14:26 UTC] PHP Fatal error:  require_once(): Failed opening required 'database.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/anchorfresh/public_html/application/views/admin/booking_details.php on line 3
+[24-Jun-2020 07:16:37 UTC] PHP Fatal error:  require_once(): Failed opening required 'database.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/anchorfresh/public_html/application/views/admin/booking_details.php on line 3
+[24-Jun-2020 07:16:57 UTC] PHP Fatal error:  require_once(): Failed opening required 'database.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/anchorfresh/public_html/application/views/admin/booking_details.php on line 3
+[24-Jun-2020 07:18:44 UTC] PHP Fatal error:  require_once(): Failed opening required 'database.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/anchorfresh/public_html/application/views/admin/booking_details.php on line 3
+[24-Jun-2020 07:19:50 UTC] PHP Fatal error:  require_once(): Failed opening required 'database.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/anchorfresh/public_html/application/views/admin/booking_details.php on line 3
+[24-Jun-2020 07:20:25 UTC] PHP Fatal error:  require_once(): Failed opening required 'database.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/anchorfresh/public_html/application/views/admin/booking_details.php on line 3
+[25-Jun-2020 12:53:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/anchorfresh/public_html/application/views/admin/index.php on line 104
+[25-Jun-2020 13:36:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/anchorfresh/public_html/application/views/admin/index.php on line 69
+[27-Jun-2020 01:42:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/anchorfresh/public_html/application/views/home/checkout.php on line 451
+[27-Jun-2020 01:43:46 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/anchorfresh/public_html/application/views/home/header.php on line 120
+[27-Jun-2020 04:09:09 UTC] Unsuccessful login attempt(ashwanibull18@gmail.com)
+[27-Jun-2020 04:10:21 UTC] Unsuccessful login attempt(ashwanibull18@gmail.com)
+[27-Jun-2020 08:42:27 UTC] PHP Parse error:  syntax error, unexpected 'home' (T_STRING), expecting ']' in /home/anchorfresh/public_html/application/views/home/checkout.php on line 269
+[27-Jun-2020 13:18:16 UTC] Unable to updateUserInfo(117)
+[28-Jun-2020 09:42:12 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/anchorfresh/public_html/application/controllers/Admin.php on line 367
+[28-Jun-2020 09:42:26 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/anchorfresh/public_html/application/controllers/Admin.php on line 367
+[28-Jun-2020 09:44:20 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/anchorfresh/public_html/application/controllers/Admin.php on line 367
+[28-Jun-2020 09:45:32 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/anchorfresh/public_html/application/controllers/Admin.php on line 367
+[28-Jun-2020 09:47:48 UTC] Unsuccessful login attempt(admin@anchorfresh.ae)
+[29-Jun-2020 09:30:58 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/anchorfresh/public_html/application/views/home/homepage.php on line 157
+[30-Jun-2020 07:37:58 UTC] PHP Fatal error:  Call to undefined function eror_reporting() in /home/anchorfresh/public_html/application/views/home/header.php on line 2
+[30-Jun-2020 07:38:05 UTC] PHP Fatal error:  Call to undefined function eror_reporting() in /home/anchorfresh/public_html/application/views/home/header.php on line 2
+[30-Jun-2020 07:38:08 UTC] PHP Fatal error:  Call to undefined function eror_reporting() in /home/anchorfresh/public_html/application/views/home/header.php on line 2
+[30-Jun-2020 10:39:24 UTC] Unsuccessful login attempt(zuced@mailinator.com)
+[30-Jun-2020 13:16:58 UTC] Unsuccessful login attempt(iqrasyedali17@gmail.com)
+[30-Jun-2020 13:17:03 UTC] Unsuccessful login attempt(iqrasyedali17@gmail.com)
+[30-Jun-2020 13:22:43 UTC] Unsuccessful login attempt(iqrafarhad17@gmail.com)
+[30-Jun-2020 13:22:47 UTC] Unsuccessful login attempt(iqrafarhad17@gmail.com)
+[30-Jun-2020 13:22:55 UTC] Unsuccessful login attempt(iqrafarhad17@gmail.com)
+[30-Jun-2020 13:22:57 UTC] Unsuccessful login attempt(iqrafarhad17@gmail.com)
+[30-Jun-2020 13:22:58 UTC] Unsuccessful login attempt(iqrafarhad17@gmail.com)
+[30-Jun-2020 13:23:00 UTC] Unsuccessful login attempt(iqrafarhad17@gmail.com)
+[30-Jun-2020 13:24:56 UTC] Unsuccessful login attempt(iqrafarhad17@gmail.com)
+[30-Jun-2020 13:24:58 UTC] Unsuccessful login attempt(iqrafarhad17@gmail.com)
+[30-Jun-2020 13:24:58 UTC] Unsuccessful login attempt(iqrafarhad17@gmail.com)
+[30-Jun-2020 13:24:59 UTC] Unsuccessful login attempt(iqrafarhad17@gmail.com)
+[30-Jun-2020 13:36:55 UTC] no user found getUserInfo(iqrafarhad17@gmail.com)
+[30-Jun-2020 13:36:59 UTC] no user found getUserInfo(iqrafarhad17@gmail.com)
+[01-Jul-2020 10:42:15 UTC] Unsuccessful login attempt(nitinkumar851092@gmail.com)
+[02-Jul-2020 05:39:26 UTC] Unable to updateUserInfo(122)
+[20-Jul-2020 15:32:57 UTC] Unsuccessful login attempt(sudhir.skk@gmail.com)
+[20-Jul-2020 15:39:38 UTC] Unsuccessful login attempt(tamnnasood405@gmail.com)
+[20-Jul-2020 15:39:44 UTC] Unsuccessful login attempt(tamnnasood405@gmail.com)
+[21-Jul-2020 11:36:46 UTC] Unsuccessful login attempt(ashwani95sygrace@gmail.com)
+[21-Jul-2020 11:36:56 UTC] Unsuccessful login attempt(ashwani95sygrace@gmail.com)
+[01-Aug-2020 13:26:02 UTC] Unsuccessful login attempt(roopnsrivastava@gmail.com)
+[01-Aug-2020 13:26:16 UTC] Unsuccessful login attempt(roopnsrivastava@gmail.com)
+[02-Aug-2020 17:32:15 UTC] no user found getUserInfo(roopnsrivastav@gmail.com)
+[02-Aug-2020 17:36:00 UTC] Unsuccessful login attempt(roopnsrivastava@gmail.com)
+[03-Aug-2020 07:12:18 UTC] Unsuccessful login attempt(ashwanibull18@gmail.com)
+[04-Aug-2020 05:17:43 UTC] no user found getUserInfo(anilkumar140299@gmail.com9999)
+[04-Aug-2020 05:18:27 UTC] no user found getUserInfo(anilkumar1409@gmail.com)
+[04-Aug-2020 05:19:13 UTC] no user found getUserInfo(anilkumar1409@gmail.com)
+[04-Aug-2020 05:19:30 UTC] no user found getUserInfo(anilkumar1409@gmail.com)
+[04-Aug-2020 05:19:30 UTC] no user found getUserInfo(trtrt@565.com)
+[04-Aug-2020 05:23:20 UTC] no user found getUserInfo(trtrt@565.com)
+[04-Aug-2020 05:27:58 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[04-Aug-2020 08:39:41 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[04-Aug-2020 08:39:53 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[04-Aug-2020 08:40:05 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[04-Aug-2020 08:40:24 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[04-Aug-2020 08:40:35 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[04-Aug-2020 08:41:04 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[04-Aug-2020 08:42:18 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[04-Aug-2020 08:42:39 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[04-Aug-2020 08:43:19 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[04-Aug-2020 08:43:37 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[04-Aug-2020 08:44:34 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[04-Aug-2020 08:46:36 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[04-Aug-2020 08:46:51 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[04-Aug-2020 08:47:50 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[04-Aug-2020 08:48:40 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[04-Aug-2020 08:48:57 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[04-Aug-2020 08:49:50 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[04-Aug-2020 08:51:28 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[04-Aug-2020 08:53:49 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[04-Aug-2020 08:55:21 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[04-Aug-2020 08:55:41 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[04-Aug-2020 08:55:50 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[06-Aug-2020 08:00:48 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[06-Aug-2020 08:00:56 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[06-Aug-2020 08:01:06 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[06-Aug-2020 08:01:16 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[06-Aug-2020 08:01:36 UTC] no user found getUserInfo(ashwani94sygracee@gmail.com)
+[09-Aug-2020 10:17:38 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[09-Aug-2020 10:17:57 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[09-Aug-2020 10:18:08 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[09-Aug-2020 18:09:03 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[10-Aug-2020 15:52:37 UTC] Unsuccessful login attempt(rup@aimstormsolutions.com)
+[10-Aug-2020 15:52:54 UTC] Unsuccessful login attempt(rup@aimstormsolutions.com)
+[10-Aug-2020 15:52:59 UTC] Unsuccessful login attempt(rup@aimstormsolutions.com)
+[10-Aug-2020 15:53:21 UTC] Unsuccessful login attempt(roopnsrivastava@gmail.com)
+[10-Aug-2020 15:53:33 UTC] Unsuccessful login attempt(rup@aimstormsolutions.com)
+[10-Aug-2020 15:53:42 UTC] no user found getUserInfo(rup@aimstormsolutions.com)
+[10-Aug-2020 15:53:58 UTC] no user found getUserInfo(rup@aimstormsolutions.com)
+[10-Aug-2020 15:57:46 UTC] Unsuccessful login attempt(anilkumar140299@gmail.com)
+[10-Aug-2020 15:58:17 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[10-Aug-2020 15:58:27 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[10-Aug-2020 15:58:36 UTC] Unable to updateUserInfo(131)
+[10-Aug-2020 15:58:36 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[10-Aug-2020 16:01:07 UTC] Unable to updatePassword()
+[10-Aug-2020 16:02:55 UTC] Unable to updatePassword()
+[10-Aug-2020 16:04:45 UTC] Unsuccessful login attempt(ashwani09@gmail.com)
+[10-Aug-2020 16:05:09 UTC] Unsuccessful login attempt(rup@aimstormsolutions.com)
+[10-Aug-2020 16:08:01 UTC] Unsuccessful login attempt(rup@aimstormsolutions.com)
+[10-Aug-2020 16:08:36 UTC] Unsuccessful login attempt(rup@aimstormsolutions.com)
+[10-Aug-2020 16:20:45 UTC] Unsuccessful login attempt(rup@aimstormsolutions.com)
+[11-Aug-2020 10:58:06 UTC] no user found getUserInfo(ashwani0856@gmail.com)
+[11-Aug-2020 10:58:49 UTC] no user found getUserInfo(ashwani0856@gmail.com)
+[11-Aug-2020 11:01:19 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[11-Aug-2020 13:55:08 UTC] Unsuccessful login attempt(samudralamahesh01@gmail.com)
+[11-Aug-2020 13:55:18 UTC] Unsuccessful login attempt(samudralamahesh01@gmail.com)
+[12-Aug-2020 06:06:17 UTC] Unsuccessful login attempt(anilkumar140299@gmail.com)
+[12-Aug-2020 06:06:25 UTC] Unsuccessful login attempt(anilkumar140299@gmail.com)
+[12-Aug-2020 06:06:36 UTC] Unsuccessful login attempt(anilkumar140299@gmail.com)
+[12-Aug-2020 06:06:51 UTC] Unsuccessful login attempt(anilkumar140299@gmail.com)
+[13-Aug-2020 07:48:48 UTC] Unsuccessful login attempt(saint.twinkle1996@gmail.com)
+[13-Aug-2020 07:49:17 UTC] Unsuccessful login attempt(saint.twinkle1996@gmail.com)
+[15-Aug-2020 19:04:01 UTC] Unsuccessful login attempt(fgii@yy.com)
+[16-Aug-2020 13:24:30 UTC] Unsuccessful login attempt(rup@aimstormsolutions.com)
+[16-Aug-2020 13:31:02 UTC] Unsuccessful login attempt(admin@anchorfresh.ae)
+[16-Aug-2020 13:32:23 UTC] Unsuccessful login attempt(admin@anchorfresh.ae)
+[17-Aug-2020 10:28:47 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[17-Aug-2020 10:29:07 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[17-Aug-2020 10:29:20 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[17-Aug-2020 10:29:37 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[17-Aug-2020 10:29:38 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[17-Aug-2020 10:29:39 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[17-Aug-2020 10:29:41 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[17-Aug-2020 10:29:42 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[17-Aug-2020 10:29:44 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[17-Aug-2020 10:29:45 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[17-Aug-2020 10:30:07 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[17-Aug-2020 10:30:37 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[17-Aug-2020 15:23:17 UTC] Unsuccessful login attempt(roopnsrivastava@gmail.com)
+[18-Aug-2020 08:34:16 UTC] no user found getUserInfo(kathuriasimran94@gmail.com)
+[18-Aug-2020 08:34:19 UTC] no user found getUserInfo(kathuriasimran94@gmail.com)
+[18-Aug-2020 13:24:22 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[22-Aug-2020 08:19:57 UTC] Unsuccessful login attempt(admin@anchorfresh.ae)
+[24-Aug-2020 08:16:49 UTC] Unsuccessful login attempt(tiwarisushmita9506@gmail.com)
+[24-Aug-2020 08:16:51 UTC] Unsuccessful login attempt(tiwarisushmita9506@gmail.com)
+[24-Aug-2020 08:17:49 UTC] Unsuccessful login attempt(tiwarisushmita9506@gmail.com)
+[24-Aug-2020 08:17:52 UTC] Unsuccessful login attempt(tiwarisushmita9506@gmail.com)
+[24-Aug-2020 19:06:54 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[25-Aug-2020 03:52:51 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[25-Aug-2020 11:10:03 UTC] Unsuccessful login attempt(rup@ainstormsolutions.com)
+[25-Aug-2020 11:19:37 UTC] Unsuccessful login attempt(admin@admin.com)
+[25-Aug-2020 13:01:49 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[25-Aug-2020 18:03:42 UTC] Unsuccessful login attempt(saint.twinkle1996@gmail.com)
+[25-Aug-2020 18:03:49 UTC] Unsuccessful login attempt(saint.twinkle1996@gmail.com)
+[26-Aug-2020 05:56:21 UTC] Unsuccessful login attempt(rajendrasqt@gmail.com)
+[26-Aug-2020 06:27:51 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::leftjoin() in /home/anchorfresh/public_html/application/controllers/App.php on line 1401
+[26-Aug-2020 07:03:40 UTC] Unsuccessful login attempt(ashwani94sygrace@gmail.com)
+[26-Aug-2020 07:39:40 UTC] Unsuccessful login attempt(tiwarisushmiat2018@gmail.com)
+[26-Aug-2020 07:40:15 UTC] Unsuccessful login attempt(tiwarisushmita2018@gmail.com)
+[26-Aug-2020 07:40:36 UTC] Unsuccessful login attempt(tiwarisushmita2018@gmail.com)
+[26-Aug-2020 10:08:47 UTC] Unsuccessful login attempt(farhad@anchorfruits.com)
+[26-Aug-2020 13:16:38 UTC] Unsuccessful login attempt(tiwarisushmita9506@gmail.com)
+[26-Aug-2020 13:16:45 UTC] Unsuccessful login attempt(tiwarisushmita9506@gmail.com)
+[26-Aug-2020 13:16:58 UTC] Unsuccessful login attempt(tiwarisushmita9506@gmail.com)
+[26-Aug-2020 13:17:06 UTC] Unsuccessful login attempt(tiwarisushmita9506@gmail.com)
+[26-Aug-2020 13:17:15 UTC] Unsuccessful login attempt(tiwarisushmita9506@gmail.com)
+[26-Aug-2020 13:17:42 UTC] Unsuccessful login attempt(tiwarisushmita9506@gmail.com)
+[26-Aug-2020 13:17:50 UTC] Unsuccessful login attempt(tiwarisushmita9506@gmail.com)
+[26-Aug-2020 13:23:41 UTC] Unsuccessful login attempt(tiwarisushmita9506@gmail.com)
+[26-Aug-2020 13:24:12 UTC] Unsuccessful login attempt(tiwarisushmita9506@gmail.com)
+[26-Aug-2020 13:24:25 UTC] Unsuccessful login attempt(tiwarisushmita9506@gmail.com)
+[26-Aug-2020 13:51:23 UTC] Unsuccessful login attempt(tiwarisushmita9506@gmail.com)
+[26-Aug-2020 13:51:27 UTC] Unsuccessful login attempt(tiwarisushmita9506@gmail.com)
+[27-Aug-2020 08:33:56 UTC] PHP Fatal error:  Call to undefined method Admin::post() in /home/anchorfresh/public_html/application/controllers/Admin.php on line 180
+[27-Aug-2020 11:03:38 UTC] PHP Fatal error:  Call to undefined method Admin::post() in /home/anchorfresh/public_html/application/controllers/Admin.php on line 180
+[27-Aug-2020 11:13:14 UTC] PHP Fatal error:  Call to undefined method Admin::post() in /home/anchorfresh/public_html/application/controllers/Admin.php on line 180
+[27-Aug-2020 11:14:59 UTC] PHP Fatal error:  Call to undefined method Admin::post() in /home/anchorfresh/public_html/application/controllers/Admin.php on line 180
+[27-Aug-2020 11:21:00 UTC] PHP Fatal error:  Call to undefined method Admin::post() in /home/anchorfresh/public_html/application/controllers/Admin.php on line 181
+[27-Aug-2020 11:26:05 UTC] PHP Fatal error:  Call to undefined method Admin::post() in /home/anchorfresh/public_html/application/controllers/Admin.php on line 180
+[29-Aug-2020 05:43:40 UTC] Unsuccessful login attempt(tiwarisushmita9506@gmail.com)
+[29-Aug-2020 05:43:43 UTC] Unsuccessful login attempt(tiwarisushmita9506@gmail.com)
+[29-Aug-2020 05:44:19 UTC] Unsuccessful login attempt(tiwarisushmita9506@gmail.com)
+[29-Aug-2020 07:41:31 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::where() in /home/anchorfresh/public_html/application/views/index.php on line 11
+[29-Aug-2020 07:43:03 UTC] PHP Fatal error:  Call to a member function num_rows() on array in /home/anchorfresh/public_html/application/views/index.php on line 17
+[29-Aug-2020 07:43:51 UTC] PHP Fatal error:  Call to a member function num_rows() on array in /home/anchorfresh/public_html/application/views/index.php on line 17
+[29-Aug-2020 11:44:25 UTC] Unsuccessful login attempt(rup@aimstormsolutions.com)
+[01-Sep-2020 13:54:36 UTC] Unsuccessful login attempt(rup@aimstormsolutions.com)
+[01-Sep-2020 19:13:05 UTC] Unsuccessful login attempt(tiwarisushmita2018@gmail.com)
+[01-Sep-2020 20:06:43 UTC] Unsuccessful login attempt(saint.twinkle1996@gmail.com)
+[02-Sep-2020 05:46:00 UTC] Unsuccessful login attempt(tiwarisushmita9706@gmail.com)
+[02-Sep-2020 07:04:22 UTC] Unsuccessful login attempt(Sadiq@anchorfruits.com)
+[03-Sep-2020 09:28:00 UTC] PHP Parse error:  syntax error, unexpected 'ge' (T_STRING), expecting function (T_FUNCTION) in /home/anchorfresh/public_html/application/controllers/App.php on line 7
+[03-Sep-2020 10:35:52 UTC] Unsuccessful login attempt(admin@anchorfresh.ae)
+[03-Sep-2020 17:41:47 UTC] Unsuccessful login attempt(saint.twinkle1996@gmail.com)
+[05-Sep-2020 06:15:42 UTC] Unsuccessful login attempt(admin@anchorfresh.ae)
+[05-Sep-2020 06:16:21 UTC] Unsuccessful login attempt(admin@anchorfresh.ae)
+[05-Sep-2020 06:17:26 UTC] Unsuccessful login attempt(admin@anchorfresh.ae)
+[05-Sep-2020 06:18:43 UTC] Unsuccessful login attempt(admin@anchorfresh.ae)
+[05-Sep-2020 06:18:49 UTC] Unsuccessful login attempt(admin@anchorfresh.ae)
+[05-Sep-2020 07:56:42 UTC] Unsuccessful login attempt(anilkumar@gmail.com)
+[06-Sep-2020 08:53:57 UTC] PHP Fatal error:  Cannot redeclare Home::PlaceOrder() in /home/anchorfresh/public_html/application/controllers/Home.php on line 532
+[06-Sep-2020 08:54:30 UTC] PHP Fatal error:  Cannot redeclare Home::PlaceOrder() in /home/anchorfresh/public_html/application/controllers/Home.php on line 532
+[06-Sep-2020 08:54:34 UTC] PHP Fatal error:  Cannot redeclare Home::PlaceOrder() in /home/anchorfresh/public_html/application/controllers/Home.php on line 532
+[06-Sep-2020 12:22:55 UTC] PHP Parse error:  syntax error, unexpected '$mobile' (T_VARIABLE) in /home/anchorfresh/public_html/application/controllers/Api.php on line 112
+[06-Sep-2020 13:00:23 UTC] Unsuccessful login attempt(kathuriasimran94@gmail.com)
+[06-Sep-2020 13:25:36 UTC] Unsuccessful login attempt(preeti@aimstormsolutions.com)
+[06-Sep-2020 13:25:44 UTC] Unsuccessful login attempt(preeti@aimstormsolutions.com)
+[06-Sep-2020 13:25:46 UTC] Unsuccessful login attempt(preeti@aimstormsolutions.com)
+[06-Sep-2020 13:25:52 UTC] Unsuccessful login attempt(preeti@aimstormsolutions.com)
+[06-Sep-2020 13:31:53 UTC] Unsuccessful login attempt(preeti@aimstormsolutions.com)
+[06-Sep-2020 13:33:39 UTC] Unsuccessful login attempt(preeti@aimstormsolutions.com)
+[06-Sep-2020 13:33:54 UTC] Unsuccessful login attempt(preeti@aimstormsolutions.com)
+[06-Sep-2020 13:34:49 UTC] Unsuccessful login attempt(preeti@aimstormsolutions.com)
+[06-Sep-2020 18:27:15 UTC] Unsuccessful login attempt(saint.twinkle1996@gmail.com)
+[24-Sep-2020 06:41:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/yaldafresh/public_html/dev/application/controllers/Home.php on line 421
+[11-Oct-2020 06:49:25 UTC] Unsuccessful login attempt(admin@gmail.com)
+[11-Oct-2020 06:50:27 UTC] Unsuccessful login attempt(admin@yaldafresh.ae)
+[11-Oct-2020 06:50:45 UTC] Unsuccessful login attempt(admin@yaldafresh.ae)
+[11-Oct-2020 06:56:58 UTC] Unsuccessful login attempt(admin@yaldafresh.ae)
+[11-Oct-2020 06:57:12 UTC] Unsuccessful login attempt(admin@yaldafresh.ae)
+[11-Oct-2020 07:04:35 UTC] Unsuccessful login attempt(admin@yaldafresh.ae)
+[11-Oct-2020 07:04:58 UTC] Unsuccessful login attempt(admin@yaldafresh.ae)
+[11-Oct-2020 07:05:08 UTC] Unsuccessful login attempt(admin@yaldafresh.com)
+[11-Oct-2020 12:24:54 UTC] Unsuccessful login attempt(admin@anchorfresh.ae)
+[11-Oct-2020 12:29:31 UTC] Unsuccessful login attempt(admin@anchorfresh.ae)
+[11-Oct-2020 12:30:07 UTC] Unsuccessful login attempt(admin@anchorfresh.ae)
+[12-Oct-2020 07:50:11 UTC] Unsuccessful login attempt(admin@yaldafresh.com)
+[12-Oct-2020 08:40:01 UTC] Unsuccessful login attempt(admin@anchorfresh.com)
+[12-Oct-2020 08:40:11 UTC] Unsuccessful login attempt(admin@anchorfresh.com)
+[12-Oct-2020 11:57:50 UTC] Unsuccessful login attempt(admin@anchorfresh.com)
+[12-Oct-2020 11:58:07 UTC] Unsuccessful login attempt(admin@yaldafresh.com)
+[13-Oct-2020 14:04:35 UTC] Unsuccessful login attempt(admin@yaldafresh.com)
+[17-Oct-2020 13:49:41 UTC] Unsuccessful login attempt(admin@admin.com)
+[17-Oct-2020 13:49:52 UTC] Unsuccessful login attempt(admin@admin.com)
+[17-Oct-2020 14:22:05 UTC] Unsuccessful login attempt(gabarohit1995@gmail.com)
+[17-Oct-2020 14:22:17 UTC] Unsuccessful login attempt(gabarohit1995@gmail.com)
+[17-Oct-2020 14:38:08 UTC] Unsuccessful login attempt(gabarohit1995@gmail.com)
+[17-Oct-2020 14:38:32 UTC] Unsuccessful login attempt(gabarohit1995@gmail.com)
+[17-Oct-2020 14:40:36 UTC] Unsuccessful login attempt(gabarohit1995@gmail.com)
+[17-Oct-2020 14:41:00 UTC] Unsuccessful login attempt(gabarohit1995@gmail.com)
+[17-Oct-2020 14:42:04 UTC] Unsuccessful login attempt(gabarohit1995@gmail.com)
+[17-Oct-2020 14:42:19 UTC] Unsuccessful login attempt(gabarohit1995@gmail.com)
+[17-Oct-2020 14:43:17 UTC] Unsuccessful login attempt(gabarohit1995@gmail.com)
+[18-Oct-2020 05:22:01 UTC] Unsuccessful login attempt(admin@yaldafresh.com)
+[18-Oct-2020 07:21:25 UTC] Unsuccessful login attempt(gabarohit1995@gmail.com)
+[18-Oct-2020 08:15:52 UTC] Unsuccessful login attempt(gabarohit1995@gmail.com)
+[18-Oct-2020 08:49:52 UTC] Unsuccessful login attempt(sipasahoo503@gmail.com)
+[19-Oct-2020 05:27:00 UTC] Unsuccessful login attempt(vishal@aimstormsolutions.com)
+[19-Oct-2020 05:27:39 UTC] Unsuccessful login attempt(vishal@aimstormsolutions.com)
+[19-Oct-2020 05:37:32 UTC] Unsuccessful login attempt(admin@anchorfresh.ae)
+[19-Oct-2020 06:28:06 UTC] Unsuccessful login attempt(gabarohit1995@gmail.com)
+[19-Oct-2020 06:28:25 UTC] Unsuccessful login attempt(gabarohit1995@gmail.com)
+[19-Oct-2020 06:29:19 UTC] Unsuccessful login attempt(gabarohit1995@gmail.com)
+[19-Oct-2020 08:24:14 UTC] Unsuccessful login attempt(vishal@aimstormsolutions.com)
+[19-Oct-2020 08:26:37 UTC] Unsuccessful login attempt(vishal@aimstormsolutions.com)
+[19-Oct-2020 09:55:15 UTC] Unsuccessful login attempt(admin@admin.com)
+[20-Oct-2020 08:05:04 UTC] Unsuccessful login attempt(admin@yaldafresh.com)
+[20-Oct-2020 08:23:40 UTC] Unsuccessful login attempt(admin@yaldafresh.com)
+[21-Oct-2020 08:47:46 UTC] Unsuccessful login attempt(admin@yaldafresh.com)
+[21-Oct-2020 13:12:34 UTC] Unsuccessful login attempt(admin@yaldafresh.com)
+[21-Oct-2020 14:12:44 UTC] Unsuccessful login attempt(rup@aimstormsolutions.com)
+[28-Oct-2020 08:58:55 UTC] Unsuccessful login attempt(admin@yaldafresh.com)
+[29-Oct-2020 05:26:09 UTC] Unsuccessful login attempt(admin@yaldafresh.com)
+[29-Oct-2020 07:08:36 UTC] Unsuccessful login attempt(admin@yaldafresh.com)
+[02-Nov-2020 12:56:36 UTC] Unsuccessful login attempt(admin@yaldafresh.com)
+[10-Nov-2020 05:01:37 UTC] Unsuccessful login attempt(vishal@aimstormsolutions.com)

@@ -1,0 +1,88 @@
+button:focus{ outline: none;}
+
+.address-left{ width: 60%;
+
+    h5{
+        button{font-weight:600; font-size: 16px;}
+    }
+    .card{margin-bottom: 15px; @include border-radius(0px);}
+    .card-header{ background:none; padding:20px 20px; border-bottom:0px }
+
+    p{ font-weight: 300; margin-left: 40px;}
+
+    form{ margin:20px 0 20px 40px}
+
+    .form-inner{ display: flex; margin-bottom: 15px; align-items: center;
+
+        label{ font-size: 14px; width: 150px;}
+        input, select{ border: 1px solid #DBDBDB; width:300px; padding:8px 15px;}
+        span{ margin-left: 10px;}
+        .select-box{ position: relative;
+            &:before{ content:''; width: 10px; height: 10px; background: url(../images/cart/down-select.svg) no-repeat;  position:absolute; top: 15px; right: 20px;}
+        }
+       
+
+    }
+    .continue-button{ background:#6DB444; color: #fff; padding:15px 50px; font-size: 18px; display: inline-block; float:right;}
+
+    .checkbox{ margin-top: 50px;
+        input{ width: inherit;}
+        label{ width: inherit;}
+    }
+    .nav-pills a{ color: #000; font-size: 16px;}
+    .nav-pills .nav-link.active, .nav-pills .show>.nav-link{ background:none; color:#000; border-bottom:5px solid #008000; border-radius: 0px;}
+    .card-select{
+        .cvv-input{ width: 100px; margin-left: 10px;}
+        .expiry-date{ width: 150px;}
+    }
+
+    .card-box{ margin:20px 0 0 17px;
+
+    }
+
+    .nav-link{    padding: .5rem 0rem;
+        margin: 0 20px;}
+
+        .nav-pills{ margin-left: 40px;}
+}
+
+@media #{$break-ipad} {
+    .address-left {
+        .form-inner {
+            label{ width: 120px;}
+            input, select{ width: 165px;}
+        }
+        .checkbox{
+            label{ width:inherit;}
+        }
+
+        .card-select {
+            .expiry-date{    width: 104px;}
+    }
+        }
+
+
+}
+
+@media #{$break-mobile} {
+
+    .address-left{ width: inherit;
+        p{ margin-left: 0px;}
+        form{ margin-left:0px;}
+        .nav-pills{ margin-left: 0px;}
+        .form-inner{ display: block;
+            label{ width: inherit; display: block; margin-bottom: 10px;
+                br{ display: none;}
+            }
+            input, select{ width: 100%;}
+            span{ display: block; margin-top: 5px; text-align: right;}
+        }
+
+        .card-select{ display: flex;}
+        .card-box{ margin-left: 0px;}
+    }
+    
+
+    
+}
+

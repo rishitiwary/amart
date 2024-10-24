@@ -1,0 +1,33 @@
+
+//thank main box
+.thank-main{ display: flex;  padding: 150px 0px; align-items: center;
+    .left{ width: 60%;}
+     
+    .right{ width: 40%; text-align: center; 
+        strong {display: block; font-size: 34px; color: #4D4D4D;}
+        span{ font-size: 23px; color: #919191; display: block; padding: 10px;}
+        p{ font-size: 17px; color: #1C1C1C;}
+
+    }
+        
+}
+
+.shopping-continue{ text-align: center; display: block;
+    a{    background: #6DB444;
+        color: #fff;
+        display: block;
+        padding: 10px 50px;
+        text-align: center;
+        font-size: 18px; max-width: 300px; margin: 0 auto;}
+}
+
+//thank end box
+
+
+@media only screen and ( max-width:767px){
+    .thank-main {display:block; padding:60px 0px;}
+    .thank-main .left {width: 100%;}
+    .thank-main .right {width: 100%;}
+
+
+}

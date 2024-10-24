@@ -1,0 +1,64 @@
+        
+.right-bx .personal_d_r{border: 1px solid #E2E2E2; margin-top: 13px;}
+.right-bx.right_bx_per_n{ border:none; }
+
+  .personal_d_r .form-inner input, .personal_d_r .form-inner select {
+    border:1px solid #DBDBDB;
+    width: 300px;
+    padding: 8px 15px;
+}  
+
+.personal_d_r .form-inner label {
+    font-size: 14px;
+    width: 150px;
+}
+.personal_d_r .form-inner {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-bottom: 15px;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.personal_d_r .form-inner .select-box:before {
+    content: '';
+    width: 10px;
+    height: 10px;
+    background: url(../images/cart/down-select.svg) no-repeat;
+    position: absolute;
+    top: 15px;
+    right: 20px;
+}
+
+.personal_d_r .form-inner .select-box {
+    position: relative;
+}
+
+.personal_d_r .checkbox label {
+    width: inherit;
+}
+
+.password_n_m p{padding: 13px 15px;
+    border: 1px solid #DBDBDB;text-transform: uppercase;
+    font-weight: 500;
+    font-size: 16px;
+    margin-top: 15px;}
+
+.personal_d_r .saved_n_button {
+    background: #6DB444;
+    color: #fff;
+    padding: 15px 50px;
+    font-size: 18px;
+    display: inline-block;
+    float: right;
+}
+
+@media #{$break-mobile} {
+    .personal_d_r .form-inner{ display: block;}
+    .personal_d_r .form-inner label{ display: block; margin-bottom: 10px;}
+    .personal_d_r .form-inner input, .personal_d_r .form-inner select{ width: 100%;}
+}
+    
+

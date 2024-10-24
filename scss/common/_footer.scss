@@ -1,0 +1,59 @@
+.footer{ overflow: hidden; position: relative; background: url(../images/common/footer-bg.png) no-repeat; background-size: cover; padding: 50px 0 90px 0;margin-top: 50px;
+    ul{ display: flex; justify-content: space-between; 
+        li{ width: 18%;  font-size: 12px; color: #767676; font-weight: 300;
+            &:first-child{ width: 30%;}
+            .heading{ color:#6DB444; font-size: 16px; font-weight: 500; margin-bottom: 10px;}
+            a{ color: #767676;}
+        &.box-info{
+            div{display: flex; margin-bottom: 10px;
+                figure{ width:25px;}
+                span{ width: 90%;}
+            }
+            figure{ max-width: 30px; margin-right: 10px;}
+        }    
+
+        ul{ display: block;
+            li{ display: block; width: 100%; margin-bottom:5px;
+             
+            }
+        }
+        
+        }
+    }
+
+    &:before{ content:''; background:url(../images/common/footer-left.png) no-repeat; 
+        width: 294px; height: 345px; position: absolute; left: -152px; top: -82px; }
+
+        &:after{ content:''; background:url(../images/common/footer-left.png) no-repeat; 
+            width: 294px; height: 345px; position: absolute; right: -152px; bottom: -82px; }
+}
+
+.body-bg{  overflow: hidden; position: relative; 
+
+    &:before{ content:''; background:url(../images/common/middle-left.png) no-repeat; 
+        width: 294px; height: 345px; position: absolute; left: -202px; top:20%; }
+
+        &:after{ content:''; background:url(../images/common/footer-left.png) no-repeat; 
+            width: 294px; height: 345px; position: absolute; right: -152px; bottom:20%; }
+
+        
+}
+
+@media #{$break-ipad} {
+    .body-bg{ 
+        &:before, &:after{ display: none;}
+    }
+}
+
+@media #{$break-mobile} {
+
+    .footer{
+        ul{ display: block;
+            li{ width: 100%; margin-bottom: 20px;
+            &:first-child{ width: 100%;}
+            }
+        }
+
+        &:before{ left: -300px !important;}
+    }
+}

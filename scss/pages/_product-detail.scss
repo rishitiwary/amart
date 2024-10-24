@@ -1,0 +1,231 @@
+//product-top
+.product-top{ display:flex; justify-content: space-between; margin:5% 0 0 0;
+
+        .left{ width: 40%;}
+        .right{width: 55%;}
+
+        .title{ font-size:18px; font-weight:500;}
+        .price-box{ display: flex; margin:20px 0; align-items: center;
+            strong{ font-size:15px; font-weight: 500;}
+            strike{ margin:0 10px;}
+            .offer{ background:#008000; color: #fff; padding:3px 6px; font-size:12px}
+        }
+
+        p{ font-size:12px; font-weight: 400; color: #5D5D5D;}
+        .add-to-cart{ background:#6DB444; color:#fff; padding:20px 50px; font-size:18px; margin-right: 20px;}
+        .qty-top{display:flex; align-items: center; margin:50px 0;
+            label{ font-size:16px; font-weight: 500;}
+            .qty-main{ margin: 0 20px}
+            .qty{ position: relative; max-width: 90px;}
+            .qty .count {
+                color: #000;
+                vertical-align: top;
+                font-size: 29px;
+                font-weight: 700;
+                padding:10px 2px;
+                min-width: 55px;
+                text-align: center;
+                border: 1px solid #C9C8C8;
+                font-weight: 500;
+                opacity: 1;
+                font-family: 'Poppins', sans-serif;
+            }
+            .qty .plus {
+                cursor: pointer;
+                display: inline-block;
+                vertical-align: top;
+                width: 30px;
+                height: 30px;
+                text-align: center;
+                border: 1px solid #C9C8C8;
+                position: absolute;
+                right: 0px;
+                font-size: 19px;
+               
+                }
+            .qty .minus {
+                cursor: pointer;
+                display: inline-block;
+                vertical-align: top;
+              
+                width: 30px;
+                height: 30px;
+               
+                text-align: center;
+              
+                background-clip: padding-box;
+                border: 1px solid #C9C8C8;
+                position: absolute;
+                right: 0px;
+                bottom: 0px;
+                font-size: 19px;
+            }
+            
+             /*Prevent text selection*/
+        span{
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+        }
+        input{  
+            border: 0;
+            width: 2%;
+        }
+        nput::-webkit-outer-spin-button,
+        input::-webkit-inner-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+        input:disabled{
+            background-color:white;
+        }
+         
+            
+        }
+
+//share-buttons
+.share-buttons{ display: flex; align-items: center;
+            label{font-size: 16px;font-weight: 500; width: 90px;}
+
+            a{ border: 1px solid #C9C8C8; padding:10px 20px; font-size:18px; color: $black; margin-right:8px;}
+}        
+}
+
+//desc
+.desc-detail{margin:50px 0; border-bottom:1px solid #D0D0D0; padding-bottom: 50px;
+    label{ font-size:38px;font-family: 'Yesteryear', cursive;}
+    p{ color: #5D5D5D; line-height: 28px;}
+}
+
+//reviews-section
+.reviews-section{ margin:50px 0;border-bottom:1px solid #D0D0D0; padding-bottom: 50px;
+        
+    .review-header{ display: flex; justify-content: space-between;
+        label{ font-size:38px;font-family: 'Yesteryear', cursive;}
+        a{background:#6DB444; color:#fff; padding:15px 50px; font-size:18px; }
+
+    }
+
+    ul{
+        li{ margin:30px 0;
+            label{ color: #008000; font-size:23px; font-weight: 400;}
+            .star{ margin:10px 0;
+                i{ color: #BDD641;}
+            }
+            .date{ font-size:13px; color: #B5B5B5; margin-bottom: 10px;}
+
+            p{ font-weight: 300; color: #5D5D5D; line-height: 25px;}
+        }
+    }
+}
+
+//also-like
+.also-like{ display: flex; justify-content: space-between;
+    .product-box{ width: 24%; border:1px solid #E9B2B4; margin-bottom: 3%; position: relative; padding: 50px 0 60px 0; }
+        .title{ display: block;position:absolute; width: 100%; top: 0px; text-align: center; font-size:18px; color: #fff; background:#B60008; padding:10px 0;}
+        figure{ text-align: center; padding:20px 10px}
+        p{ margin:10px;}
+
+        a{ color: #1D1D1D;
+            &:hover{ text-decoration: none;}
+        }
+        .heading{position: absolute; bottom: -1px;    left: -1px;
+            right: -1px;background:#F5F5F5; padding:15px; display: flex; justify-content: space-between; align-items: center;
+            
+            .offer-price{ font-weight: 500;}
+            .price{ font-size: 12px;}
+            .offer{ background:#008000; color: #fff; font-size: 11px; padding:4px 10px}
+        
+        }
+        .cart-button{   font-size: 20px;  text-align:center; background:#6DB444; color: #fff; padding:15px 0 15px 0; display: none;}
+
+}
+
+.pro-owl-carousel{
+
+    .slider{ border: 1px solid #E9B2B4; padding:20px 100px 40px 20px}
+}
+.content-carousel {
+	width: 100%;
+	display: block;
+    margin: 0 auto;
+    
+    
+}
+.owl-carousel {
+	width: calc(100% - 170px);
+}
+.owl-carousel div {
+	width: 100%;
+}
+.owl-carousel .owl-controls .owl-dot {
+	background-size: cover;
+	margin-top: 10px;
+}
+.owl-carousel .owl-dots {
+	position: absolute;
+	top: 0;
+	right:-90px;
+	width: 100px;
+    height: 100%;
+    img{ max-width: 100%;}
+
+    .owl-dot{ border: 1px solid #E9B2B4; margin-bottom: 10px; background-size: contain;}
+}
+.owl-carousel .owl-dot {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;  
+} 
+@media #{$break-ipad} {
+
+    .product-top p{font-size: 10px;}
+
+    .product-top{
+    .qty-top{margin:10px; flex-wrap: wrap; margin: 10px 0;}
+    .add-to-cart{padding: 23px 19px; font-size: 17px;}
+    .share-buttons{ align-items: flex-start;
+        a{ display: inline-block; margin-bottom: 10px;}
+        .right{ width: inherit;}
+    }
+    } 
+
+    .also-like{
+    .heading{display: block; padding: 10px 5px;
+    .offer{font-size: 8px;  padding: 4px 3px;}
+    .offer-price{ font-size:12px}
+    }
+    } 
+
+    .owl-carousel .owl-dots{ width: 70px;}
+
+
+}
+
+@media #{$break-mobile} {
+    .product-top{display: block;
+    .left{width: 100%;}
+    .right { width: 100%;  margin: 5% 0 0 0; }
+
+    .price-box {margin: 8px 0px;}
+
+    .qty-top{display: flex; flex-wrap: wrap;}
+    .qty-top label{width: inherit; margin-top: 20px;}
+    .add-to-cart{width: 100%; margin-top: 20px; margin-right: 0px;}
+
+    .share-buttons .right{ margin-top: inherit;}
+
+
+}
+
+.reviews-section{
+    .review-header a{padding: 10px 30px;}
+}
+
+.also-like{display: block; flex-wrap: wrap; white-space: nowrap; overflow: auto;
+
+.product-box {display: inline-block; width: 70%; margin-left: 10px;}
+
+.heading{display: flex;}
+}
+}
